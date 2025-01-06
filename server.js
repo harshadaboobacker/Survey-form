@@ -26,4 +26,4 @@ app.use("/surveyapi", surveyroutes)
 // });
 
 
-module.export = app;
+module.exports = app;
